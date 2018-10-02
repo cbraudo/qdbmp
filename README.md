@@ -2,9 +2,7 @@
 
 ## Overview
 
-QDBMP (Quick n' Dirty BMP) is a minimalistic cross-platform C library for handling BMP image files.
-
- QDBMP (Quick n' Dirty BMP) is a minimalistic cross-platform C library for handling BMP image files. The library is extremely lightweight - it consists of just two small files and has no dependencies other than the standard C library. It is intended to provide small applications with basic image I/O capabilities by utilizing the widely used BMP image format.
+QDBMP (Quick n' Dirty BMP) is a minimalistic cross-platform C library for handling BMP image files. The library is extremely lightweight - it consists of just two small files and has no dependencies other than the standard C library. It is intended to provide small applications with basic image I/O capabilities by utilizing the widely used BMP image format.
 
 The library is written entirely in C, and is highly portable. It explicitly handles endianness issues and uses no OS-specific code.
 
