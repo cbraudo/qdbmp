@@ -7,7 +7,7 @@
 	QDBMP - Quick n' Dirty BMP
 
 	v1.0.0 - 2007-04-07
-	http://qdbmp.sourceforge.net
+	https://github.com/cbraudo/qdbmp
 
 
 	The library supports the following BMP variants:
@@ -18,7 +18,7 @@
 	QDBMP is free and open source software, distributed
 	under the MIT licence.
 
-	Copyright (c) 2007 Chai Braudo (braudo@users.sourceforge.net)
+	Copyright (c) 2007 Chai Braudo (braudo@gmail.com)
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
