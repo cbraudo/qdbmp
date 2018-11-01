@@ -1,4 +1,4 @@
-# QDBMP - Quick n' Dirty BMP Library
+# QDBMP - Quick n' Dirty BMP Library (Official repo)
 
 ## Overview
 
